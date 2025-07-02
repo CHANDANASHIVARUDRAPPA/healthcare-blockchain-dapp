@@ -67,7 +67,7 @@ A decentralized healthcare record management system built using **Solidity**, **
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/CHANDANASHIVARUDRAPPA/healthcare-blockchain-dapp.git
+   git clone [https://github.com/CHANDANASHIVARUDRAPPA/healthcare-blockchain-dapp.git](https://github.com/CHANDANASHIVARUDRAPPA/healthcare-blockchain-dapp.git)
    cd healthcare-blockchain-dapp
    ```
 
